@@ -550,6 +550,10 @@
     .section-team .list-team .box-item-team .info {
         left: 62px;
     }
+    .asSeenContentent h1,
+    .asSeenContentent h3 {
+        font-size: 4rem;
+    }
     /* end */
 }
 
