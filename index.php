@@ -182,6 +182,37 @@
             </div>
         </section>
 
+        <section class="tf-section section-about style-3">
+            <div class="container-fluid">
+                <div class="row flex-column-reverse flex-lg-row">
+                    <div class="col-lg-3"></div>
+                    <div class="col-md-12 col-lg-5">
+                        <div class="intro-content padding-top-120 wow fadeInLeft">
+                            <h4 class="sub-title">WHAT WE DO</h4>
+                            <h3 class="title">
+                                <span>ENRICH YOUR SOCIAL <br> MEDIA PLATFORMS!</span>
+                            </h3>
+                            <p class="text">We understand today’s social media trends better than anyone in the race. Our agency is not driven by numbers, but the utter satisfaction we witness from our clients!</p>
+                            <p class="text">Looking to grow your brand and revenue?</p>
+                            <p class="text">We know the perfect platforms to choose from.</p>
+                        </div>
+                        <div class="btn-main wow dark fadeInRight" data-wow-delay="400ms">
+                            <a href="javascript:void(0)">
+                                <span class="more">DISCOVER MORE
+                                    <span class="icon"><i class="fas fa-plus"></i></span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-4 wow fadeInRight m-auto">
+                        <div class="image-about style-3 up-down">
+                            <img src="images/phones.png" width="620" alt="Moc Digital Marketing">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Section Work -->
         <section class="tf-section section-work style-2 style-3">
             <div class="container">
