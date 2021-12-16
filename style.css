@@ -151,6 +151,7 @@ html {
   overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  overflow-x: hidden;
 }
 
 *,
@@ -164,6 +165,7 @@ html {
 body {
   background: #fff;
   line-height: 1;
+  overflow-x: hidden;
 }
 
 article,
@@ -1033,7 +1035,7 @@ h6 a {
   background: #666666;
   border-radius: 50%;
   -webkit-animation: zoom-fade-two 5s infinite linear;
-  animation: zoom-fade-two 2s infinite linear;
+  animation: zoom-fade-two 5s infinite linear;
 }
 .section-slider .menu-slide .list-menu-slide li {
   display: inline-block;
@@ -1619,11 +1621,6 @@ h6 a {
   background-size: cover;
   padding: 40px 20px 60px;
 }
-
-.asSeenContentent img{
-    animation: zoom-fade-two 2s infinite linear;
-}
-
 .AaSeen .asSeenContentent p,
 .AaSeen .asSeenContentent h1,
 .AaSeen .asSeenContentent h3 {
@@ -3329,6 +3326,18 @@ h6 a {
 .form-control,
 input::-webkit-input-placeholder {
   font-size: 2rem !important;
+}
+
+.animated {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-delay: 500ms;
+  animation-delay: 500ms;
+}
+
+.animate-out {
+  -webkit-animation-delay: 0ms;
+  animation-delay: 0ms;
 }
 
 /*# sourceMappingURL=style.css.map */

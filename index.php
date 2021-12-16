@@ -11,7 +11,7 @@
                 <div id="rev-slider1" class="rev_slider fullwidthabanner">
                     <ul>
                         <!-- Slide 1 -->
-                        <li data-transition="fade">
+                        <li data-transition="zoom-fade-two">
                             <!-- Main Image -->
                             <img src="images/slider/bg-slide-1.jpg" alt="" data-bgposition="top center" data-no-retina>
 
@@ -24,12 +24,12 @@
                                 <b>Result-Driven Digital</b>
                             </div>
 
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['76','76','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
+                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['12','12','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                 <b>Marketing Agency</b>
                             </div>
 
                             <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 padding-top-100 text-slide" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['16','16','16','16']" data-lineheight="['29','29','29','29']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                The digital world is booming at full speed. Catch the pace and become part of a revolution!
+                                <p><b>The digital world is booming at full speed. Catch the pace and become part of a revolution!</b></p>
                             </div>
 
                             <div class="tp-caption btn-slider" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['106','106','106','106']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
@@ -44,7 +44,7 @@
                         </li>
                         <!-- /End Slide 1 -->
                         <!-- Slide 2 -->
-                        <li data-transition="fade">
+                        <li data-transition="zoom-fade-two">
                             <!-- Main Image -->
                             <img src="images/slider/bg-slide-1.jpg" alt="" data-bgposition="top center" data-no-retina>
 
@@ -57,7 +57,7 @@
                                 <b>Result-Driven Digital</b>
                             </div>
 
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['76','76','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
+                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['12','12','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                 <b>Marketing Agency</b>
                             </div>
 
@@ -83,7 +83,7 @@
             <div class="menu-slide">
                 <ul class="list-menu-slide">
                     <li><img src="images/icon/icon-list.png" alt=""></li>
-                    <li><a href="javascript:void(0)">Work</a></li>
+                    <li><a href="javascript:void(0)">Services</a></li>
                     <li><a href="javascript:void(0)">Portfolio</a></li>
                     <li><a href="javascript:void(0)">Blog</a></li>
                     <li><a href="javascript:void(0)">Contact</a></li>
@@ -91,7 +91,7 @@
             </div>
         </section>
         <!-- Section About -->
-        <section class="tf-section section-about style-3">
+        <section class="tf-section section-about style-3 pt-5 pb-5">
             <div class="container-fluid">
                 <div class="row flex-column-reverse flex-lg-row">
                     <div class="col-lg-3"></div>
@@ -150,12 +150,12 @@
             </div>
         </section>
 
-        <section class="tf-section section-about style-3 pb-0">
+        <section class="tf-section section-about style-3 pt-5 pb-0">
             <div class="container-fluid">
                 <div class="row flex-column-reverse flex-lg-row">
-                    <div class="col-md-12 col-lg-4 wow fadeInRight ms-0 mb-0 m-auto">
-                        <div class="image-about style-3 up-down mt-5">
-                            <img src="images/page/whatWeDo.png" width="620" alt="Moc Digital Marketing">
+                    <div class="col-md-12 col-lg-3 wow fadeInRight ms-0 mb-0 m-auto">
+                        <div class="image-about style-3 up-down">
+                            <img src="images/phones.png" width="620" alt="Moc Digital Marketing">
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-5 m-auto">
@@ -176,37 +176,6 @@
                                     <span class="icon"><i class="fas fa-plus"></i></span>
                                 </span>
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="tf-section section-about style-3">
-            <div class="container-fluid">
-                <div class="row flex-column-reverse flex-lg-row">
-                    <div class="col-lg-3"></div>
-                    <div class="col-md-12 col-lg-5">
-                        <div class="intro-content padding-top-120 wow fadeInLeft">
-                            <h4 class="sub-title">WHAT WE DO</h4>
-                            <h3 class="title">
-                                <span>ENRICH YOUR SOCIAL <br> MEDIA PLATFORMS!</span>
-                            </h3>
-                            <p class="text">We understand today’s social media trends better than anyone in the race. Our agency is not driven by numbers, but the utter satisfaction we witness from our clients!</p>
-                            <p class="text">Looking to grow your brand and revenue?</p>
-                            <p class="text">We know the perfect platforms to choose from.</p>
-                        </div>
-                        <div class="btn-main wow dark fadeInRight" data-wow-delay="400ms">
-                            <a href="javascript:void(0)">
-                                <span class="more">DISCOVER MORE
-                                    <span class="icon"><i class="fas fa-plus"></i></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 wow fadeInRight m-auto">
-                        <div class="image-about style-3 up-down">
-                            <img src="images/phones.png" width="620" alt="Moc Digital Marketing">
                         </div>
                     </div>
                 </div>

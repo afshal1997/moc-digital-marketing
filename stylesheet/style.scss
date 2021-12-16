@@ -1035,14 +1035,12 @@ h6 a {
                 content: "";
                 position: absolute;
                 z-index: 9;
-                top: -91px;
+                top: -30px;
                 right: 2px;
-
                 width: 22px;
                 height: 23px;
                 background: #666666;
                 border-radius: 50%;
-
                 -webkit-animation: zoom-fade-two 5s infinite linear;
                 animation: zoom-fade-two 5s infinite linear;
             }
@@ -3582,4 +3580,17 @@ h6 a {
 .form-control,
 input::-webkit-input-placeholder {
     font-size: 2rem !important;
+}
+
+.animated {
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+
+    -webkit-animation-delay: 500ms;
+    animation-delay: 500ms;
+}
+
+.animate-out {
+    -webkit-animation-delay: 0ms;
+    animation-delay: 0ms;
 }
