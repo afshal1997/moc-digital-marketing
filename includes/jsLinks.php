@@ -21,14 +21,11 @@
 <script src="includes/rev-slider/js/extensions/revolution.extension.parallax.min.js"></script>
 <script src="includes/rev-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="includes/rev-slider/js/extensions/revolution.extension.video.min.js"></script>
-<<<<<<< HEAD
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
 <script>
     AOS.init();
 </script>
-=======
->>>>>>> ef3d2add57407c85377d148b1990454d21a2565f
 
 </body>
 
