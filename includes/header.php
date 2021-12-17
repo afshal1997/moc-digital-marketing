@@ -22,7 +22,21 @@
                                     <a class="menu-main" href="index.php">Home</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a class="menu-main" href="javascript:void(0)">Services</a>
+                                    <a class="menu-main" href="service.html">Services</a>
+                                    <ul class="sub-menu shadow">
+                                        <li class="menu-item current-item">
+                                            <a href="content-writing.php">Content Writing</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="javascript:void(0)">Design</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="javascript:void(0)">Google</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="javascript:void(0)">Social Media Marketing</a>
+                                        </li>
+                                    </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a class="menu-main" href="javascript:void(0)">Prices</a>

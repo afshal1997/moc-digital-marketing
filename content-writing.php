@@ -10,118 +10,155 @@
             <div class="rev_slider_wrapper fullwidthbanner-container">
                 <div id="rev-slider1" class="rev_slider fullwidthabanner">
                     <div id="particles-js"></div>
-                    <ul>
-                        <!-- Slide 1 -->
-                        <li data-transition="zoom-fade-two">
-                            <!-- Main Image -->
-                            <img src="images/slider/bg-slide-1.jpg" alt="" data-bgposition="top center" data-no-retina>
-
-                            <!-- Layers -->
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-600 padding-left-5" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-134','-134','-134','-134']" data-fontsize="['18','18','18','16']" data-lineheight="['70','70','40','24']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="700" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                MOC DIGITAL MARKETING
-                            </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-63','-63','-63','-63']" data-fontsize="['102','102','102','70']" data-lineheight="['76','76','45','35']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <b>Result-Driven Digital</b>
-                            </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['12','12','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <b>Marketing Agency</b>
-                            </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 padding-top-100 text-slide" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['16','16','16','16']" data-lineheight="['29','29','29','29']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <p><b>The digital world is booming at full speed. Catch the pace and become part of a revolution!</b></p>
-                            </div>
-
-                            <div class="tp-caption btn-slider" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['106','106','106','106']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="btn-main padding-btn-sl">
-                                    <a href="javascript:void(0)">
-                                        <span class="more">DISCOVER MORE
-                                            <span class="icon"><i class="fas fa-plus"></i></span>
-                                        </span>
-                                    </a>
+                    <div class="contentMainBanner">
+                        <div class="verticalCenterContentBanner">
+                            <div class="row">
+                                <div class="col-lg-6 m-auto text-center">
+                                    <h1>Content Writing</h1>
                                 </div>
                             </div>
-                        </li>
-                        <!-- /End Slide 1 -->
-                        <!-- Slide 2 -->
-                        <li data-transition="zoom-fade-two">
-                            <!-- Main Image -->
-
-                            <img class="sliderImg" src="images/slider/bg-slide-1.jpg" alt="" data-bgposition="top center" data-no-retina>
-
-                            <!-- Layers -->
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-600 padding-left-5" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-134','-134','-134','-134']" data-fontsize="['18','18','18','16']" data-lineheight="['70','70','40','24']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="700" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                MOC DIGITAL MARKETING
+                        </div>
+                        <div class="scroll-down">
+                            <div class="scroll-down-text">
+                                <a href="#contentBannersection02">SCROLL DOWN</a>
                             </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-63','-63','-63','-63']" data-fontsize="['102','102','102','70']" data-lineheight="['76','76','45','35']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <b>Result-Driven Digital</b>
-                            </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 title-slide-2" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['102','102','102','70']" data-lineheight="['12','12','45','80']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <b>Marketing Agency</b>
-                            </div>
-
-                            <div class="tp-caption tp-resizeme text-dark font-heading font-weight-700 padding-top-100 text-slide" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['2','2','2','2']" data-fontsize="['16','16','16','16']" data-lineheight="['29','29','29','29']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                The digital world is booming at full speed. Catch the pace and become part of a revolution!
-                            </div>
-
-                            <div class="tp-caption btn-slider" data-x="['left','left','left','center']" data-hoffset="['34','34','34','0']" data-y="['middle','middle','middle','middle']" data-voffset="['106','106','106','106']" data-width="full" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <div class="btn-main padding-btn-sl">
-                                    <a href="javascript:void(0)">
-                                        <span class="more">DISCOVER MORE
-                                            <span class="icon"><i class="fas fa-plus"></i></span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- /End Slide 2 -->
-                    </ul>
+                            <div class="scroll-down-bar"></div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <!-- END SLIDER -->
-            <div class="menu-slide">
-                <ul class="list-menu-slide">
-                    <li><img src="images/icon/icon-list.png" alt=""></li>
-                    <li><a href="javascript:void(0)">Services</a></li>
-                    <li><a href="javascript:void(0)">Portfolio</a></li>
-                    <li><a href="javascript:void(0)">Blog</a></li>
-                    <li><a href="javascript:void(0)">Contact</a></li>
-                </ul>
             </div>
         </section>
         <!-- Section About -->
-        <section class="tf-section section-about style-3 pt-5 pb-5">
-            <div class="container-fluid">
+        <section id="contentBannersection02" class="tf-section section-about style-3 pt-5 pb-5">
+            <div class="container">
                 <div class="row flex-column-reverse flex-lg-row">
-                    <div class="col-lg-2"></div>
-                    <div class="col-md-12 col-lg-5">
-                        <div class="intro-content padding-top-120 wow fadeInLeft">
-                            <h4 class="sub-title">About Us</h4>
-                            <h3 class="title">
-                                <span>WE PUT OUR FULL POTENTIAL <br> IN BUILDING GROWTH SOLUTIONS!.</span>
-                            </h3>
-                            <h5 class="description">At MOC Digital Agency</h5>
-                            <p class="text">we are skilled in taking your business to the next level…</p>
-                            <h5 class="description">Are you a start up?</h5>
-                            <p class="text">We been there and done that. The fastest way to grow is through a digital presence.</p>
-                            <h5 class="description">Are you a mid-level business?</h5>
-                            <p class="text">Time to grow from 6 figures to 7 figures. It all starts with a digital presence.</p>
-                        </div>
-                        <div class="btn-main wow dark fadeInRight" data-wow-delay="400ms">
-                            <a href="javascript:void(0)">
-                                <span class="more">DISCOVER MORE
-                                    <span class="icon"><i class="fas fa-plus"></i></span>
-                                </span>
-                            </a>
+                    <div class="col-md-12 col-lg-6 wow fadeInRight m-auto">
+                        <div class="image-about style-3 up-down">
+                            <img src="images/content-page-images/content_Writing-01.png" width="620" alt="Moc Digital Marketing">
                         </div>
                     </div>
-                    <div class="col-md-12 col-lg-5 wow fadeInRight m-auto">
-                        <div class="image-about style-3 up-down">
-                            <img src="images/page/img-about-2.jpg" width="620" alt="Moc Digital Marketing">
+                    <div class="col-md-12 col-lg-6 m-auto">
+                        <div class="wow fadeInLeft">
+                            <p class="text-muted">
+                                <b>
+                                    We make your customers fall in love with the content you put on! There&#39;s
+                                    no denying the fact that content is the king, but at MOC, quality content
+                                    actually rules. People who prioritize content know the worth of the indelible
+                                    impressions it creates!
+                                </b>
+                            </p>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="tf-section section-pricing">
+            <div class="container">
+                <div class="row">
+                    <div class="list-pricing">
+                        <div class="themesflat-pricing wow fadeInUp shadow-lg">
+                            <div class="pricing-item">
+                                <div class="inner">
+                                    <div class="thumb data-effect-item">
+                                        <!-- <div class="sale-off">
+                                            <p>20%<br>Off</p>
+                                        </div> -->
+                                        <h2 class="price pb-2">$199</h2>
+                                        <h3 class="package pb-2">Be Respected</h3>
+                                        <h6 class="text-muted"><b>2 BLOG POSTS PER MONTH</b></h6>
+                                        <hr>
+                                        <ul class="list-table">
+                                            <li>Topics as per request</li>
+                                            <li>SEO Verified</li>
+                                            <li>72 Hours Turnaround Time</li>
+                                            <li>Copyrights</li>
+                                            <li>100% Plagiarism Free</li>
+                                            <li>Unlimited Revisions</li>
+                                            <li>Proofing & Editing By Experts</li>
+                                        </ul>
+                                        <div class="btn-main dark padding-top-50">
+                                            <a href="javascript:void(0)">
+                                                <span class="more">Get Started
+                                                    <span class="icon"><i class="fas fa-plus"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="themesflat-pricing centerCard wow fadeInUp shadow-lg" data-wow-delay="800ms">
+                            <div class="pricing-item">
+                                <div class="inner">
+                                    <div class="thumb data-effect-item">
+                                        <!-- <div class="sale-off">
+                                            <p>20%<br>Off</p>
+                                        </div> -->
+                                        <h2 class="price pb-2">$599</h2>
+                                        <h3 class="package pb-2">Be Followed</h3>
+                                        <h6 class="text-muted"><b>6 BLOG POSTS PER MONTH</b></h6>
+                                        <hr>
+                                        <ul class="list-table">
+                                            <li>Niche focused content</li>
+                                            <li>Topic as per request</li>
+                                            <li>SEO Verified</li>
+                                            <li>72 Hours Turnaround Time</li>
+                                            <li>Copyrights</li>
+                                            <li>Keyword Specific Research</li>
+                                            <li>100% Plagiarism Free</li>
+                                            <li>+ Back links</li>
+                                            <li>Unlimited Revisions</li>
+                                            <li>Proofing & Editing By Experts</li>
+                                        </ul>
+                                        <div class="btn-main dark padding-top-50">
+                                            <a href="javascript:void(0)">
+                                                <span class="more">Get Started
+                                                    <span class="icon"><i class="fas fa-plus"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="themesflat-pricing wow fadeInUp shadow-lg" data-wow-delay="400ms">
+                            <div class="pricing-item">
+                                <div class="inner">
+                                    <div class="thumb data-effect-item">
+                                        <!-- <div class="sale-off bg-featured">
+                                            <p>20%<br>Off</p>
+                                        </div> -->
+                                        <h2 class="price pb-2">$399</h2>
+                                        <h3 class="package pb-2">Be Understood</h3>
+                                        <h6 class="text-muted"><b>4 BLOG POSTS PER MONTH</b></h6>
+                                        <hr>
+                                        <ul class="list-table">
+                                            <li>Niche focused content</li>
+                                            <li>Topic as per request</li>
+                                            <li>SEO Verified</li>
+                                            <li>72 Hours Turnaround Time</li>
+                                            <li>Copyrights</li>
+                                            <li>Keyword Specific Research</li>
+                                            <li>100% Plagiarism Free</li>
+                                            <li>+ Back links</li>
+                                            <li>Unlimited Revisions</li>
+                                            <li>Proofing & Editing By Experts</li>
+                                        </ul>
+                                        <div class="btn-main">
+                                            <a href="javascript:void(0)">
+                                                <span class="more">Get Started
+                                                    <span class="icon"><i class="fas fa-plus"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
