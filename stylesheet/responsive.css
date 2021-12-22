@@ -56,6 +56,13 @@
     .section-blog.page-blog .themesflat-blog .meta .time {
         padding-right: 6px;
     }
+    .btn-main a {
+        font-size: 1.2rem;
+    }
+
+    .btn-main a span.icon {
+        top: -9px;
+    }
 }
 @media only screen and (max-width: 991px) {
     .main-header-contact {
@@ -1416,3 +1423,29 @@
     }
     /* end */
 }
+
+@media only screen and (max-width: 620px){
+
+    .pricingTabs ul .nav-item .nav-link,
+    .pricingTabs ul .nav-item .nav-link.active{
+        font-size: 1.6rem;
+    }
+
+    ul.nav.nav-pills.mb-3 {
+        margin: auto;
+    }
+
+}
+
+@media only screen and (max-width: 591px){
+
+    .pricingTabs ul .nav-item{
+        max-width: 100%;
+    }
+
+    ul.nav.nav-pills.mb-3 {
+        margin: auto;
+    }
+
+}
+

@@ -2141,7 +2141,7 @@ h6 a {
   margin-bottom: 21px;
 }
 
-.themesflat-pricing{
+.themesflat-pricing {
   transition: 2s;
 }
 
@@ -2160,6 +2160,7 @@ h6 a {
   padding-bottom: 21px;
   height: 100%;
   max-height: 280px;
+  min-height: 280px;
   overflow-x: hidden;
   overflow-y: scroll;
 }
@@ -2167,13 +2168,13 @@ ul.list-table::-webkit-scrollbar {
   width: 8px;
 }
 ul.list-table::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: #f1f1f1;
 }
 ul.list-table::-webkit-scrollbar-thumb {
-  background: #888; 
+  background: #888;
 }
 ul.list-table::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #555;
 }
 .section-pricing .list-pricing .themesflat-pricing .pricing-item .thumb ul.list-table li {
   font-family: "Open Sans", sans-serif;
@@ -3494,4 +3495,64 @@ input::-webkit-input-placeholder {
     animation-timing-function: ease-in;
     transform: translate3d(0, 65px, 0);
   }
+}
+
+.pricingTabs ul .nav-item {
+  display: block !important;
+  width: 100% !important;
+  max-width: 30.0%;
+  margin: auto;
+}
+
+.pricingTabs ul .nav-item .nav-link {
+  margin: auto;
+  text-align: center;
+  width: 100% !important;
+  font-size: 1.7rem;
+  padding: 12px;
+  background-image: linear-gradient(90deg, black 10%, transparent 10%);
+  transition: 1s;
+  border: 1px solid #000;
+}
+
+.pricingTabs ul .nav-item .nav-link:hover{
+  background-image: linear-gradient(90deg, black 10%, transparent 100%);
+  color: #fff;
+  transition: 1s;
+}
+
+.pricingTabs ul .nav-item .nav-link.active {
+  background: #000 !important;
+  color: #fff;
+  font-size: 1.7rem;
+  padding: 12px;
+}
+
+.img-b img {
+  max-height: 660px !important;
+}
+
+ul.list-social {
+  display: flex;
+  margin: auto;
+}
+
+ul.list-social li {
+  margin: auto 10px;
+  font-size: 2.4rem;
+}
+
+.fullwidthabanner{
+  background-image: url('../images/slider/earthimgbackground.png');
+}
+
+.tp-bgimg.defaultimg {
+  background-image: url('../images/slider/earthimg.png');
+  background-size: contain !important;
+  background-position: center !important;
+  width: 100% !important;
+  height: 80% !important;
+  background-repeat: no-repeat !important;
+  position: absolute !important;
+  transform: translate(0px, 20%) !important;
 }

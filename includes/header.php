@@ -28,27 +28,27 @@
                                             <a href="content-writing.php">Content Writing</a>
                                         </li>
                                         <li class="menu-item">
-                                            <a href="javascript:void(0)">Design</a>
+                                            <a href="design.php">Design</a>
                                         </li>
                                         <li class="menu-item">
-                                            <a href="javascript:void(0)">Google</a>
+                                            <a href="google.php">Google</a>
                                         </li>
                                         <li class="menu-item">
-                                            <a href="javascript:void(0)">Social Media Marketing</a>
+                                            <a href="social-media-marketing.php">Social Media Marketing</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a class="menu-main" href="javascript:void(0)">Prices</a>
+                                    <a class="menu-main" href="pricing.php">Prices</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a class="menu-main" href="javascript:void(0)">Work</a>
+                                    <a class="menu-main" href="work.php">Work</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a class="menu-main" href="javascript:void(0)">About MOC</a>
+                                    <a class="menu-main" href="about-moc.php">About MOC</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a class="menu-main" href="javascript:void(0)">Contact Us</a>
+                                    <a class="menu-main" href="contact-us.php">Contact Us</a>
                                 </li>
                             </ul>
                         </nav>

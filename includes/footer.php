@@ -14,14 +14,15 @@
                             <ul class="list-wrap">
                                 <li><a href="tel:+13134430033">TEL: +13134430033</a></li>
                                 <li><a href="mailto:contact@mocdigitalmarketing.com">EMAIL: contact@mocdigitalmarketing.com</a></li>
+                                <li><a href="javascript:void(0)"></a></li>
                             </ul>
                         </div>
                         <div class="location">
-                            <div class="icon-location">
+                            <!-- <div class="icon-location">
                                 <img src="images/icon/location.png" alt="">
-                            </div>
-                            <p class="title">Present Location</p>
-                            <p class="info">25765 Wilson Dearborn HTS 48127 Michigan</p>
+                            </div> -->
+                            <p class="title"><b>Present Location</b></p>
+                            <p class="info">OUR ADDRESS 25765 Wilson Dearborn HTS 48127 Michigan</p>
                         </div>
                     </div>
 
