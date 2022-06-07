@@ -246,6 +246,28 @@
     });
 
     AOS.init();
+
+    $('.service-slide').slick({
+    slidesToShow: 3,
+    responsive: [
+      {
+        breakpoint: 1080,
+        settings: {
+          arrows: true,
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: false,
+          dots:true,
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+
 </script>
 
 </html>

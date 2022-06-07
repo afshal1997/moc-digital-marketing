@@ -93,6 +93,29 @@
                         <div class="card shadow border-0">
                             <div class="card-body">
                                 <div class="packagePrice">
+                                    <h2>$499</h2>
+                                    <h4>MANAGE SOCIAL MEDIA ACCOUNT</h4>
+                                </div>
+                                <hr>
+                                <div class="priceCardUl">
+                                    <ul>
+                                        <li>IG, FB, Pinterest, Twitter</li>
+                                        <li>Respond to comments</li>
+                                        <li>Respond to Messages</li>
+                                        <li>Engage with other Accounts</li>
+                                        <li>Like Posts to keep up with social algorithms </li>
+                                        <li>Gain Following and Recognition</li>
+                                        <li>*Price per Account*</li>
+                                    </ul>
+                                </div>
+                                <a data-aos="fade-right" data-aos-duration="3000" class="btnKnowMore p-2 px-4 m-auto mt-3" href="javascript:void(0)">Get Started</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-center m-auto mb-4">
+                        <div class="card shadow border-0">
+                            <div class="card-body">
+                                <div class="packagePrice">
                                     <h2>$899</h2>
                                     <h4>BE HEARD</h4>
                                 </div>
@@ -136,29 +159,6 @@
                                         <li>Targeted page likes</li>
                                         <li>Targeted following</li>
                                         <li>Local management</li>
-                                    </ul>
-                                </div>
-                                <a data-aos="fade-right" data-aos-duration="3000" class="btnKnowMore p-2 px-4 m-auto mt-3" href="javascript:void(0)">Get Started</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 text-center m-auto mb-4">
-                        <div class="card shadow border-0">
-                            <div class="card-body">
-                                <div class="packagePrice">
-                                    <h2>$499</h2>
-                                    <h4>MANAGE SOCIAL MEDIA ACCOUNT</h4>
-                                </div>
-                                <hr>
-                                <div class="priceCardUl">
-                                    <ul>
-                                        <li>IG, FB, Pinterest, Twitter</li>
-                                        <li>Respond to comments</li>
-                                        <li>Respond to Messages</li>
-                                        <li>Engage with other Accounts</li>
-                                        <li>Like Posts to keep up with social algorithms </li>
-                                        <li>Gain Following and Recognition</li>
-                                        <li>*Price per Account*</li>
                                     </ul>
                                 </div>
                                 <a data-aos="fade-right" data-aos-duration="3000" class="btnKnowMore p-2 px-4 m-auto mt-3" href="javascript:void(0)">Get Started</a>

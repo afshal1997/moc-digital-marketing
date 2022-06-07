@@ -5,9 +5,11 @@
         color: #fff;
         padding: 1rem;
     }
+
     .get-your-report {
         margin-top: 10px;
     }
+
     .subscribe .subscribe-form {
         margin: 1rem;
         margin-bottom: 0px;
@@ -20,6 +22,7 @@
     .last-footer {
         text-align: left;
     }
+
     .copy-right-section ul {
         display: block;
         margin-top: 10px;
@@ -28,7 +31,16 @@
     }
 }
 
+@media screen and (max-width: 1366px) {
+    .service-slide .service-inner .imgBox {
+        height: 250px;
+        width: 280px;
+        display: flex;
+    }
+}
+
 @media screen and (max-width: 991px) {
+
     .contactUsMainBannerCard,
     .aboutMainBannerCard,
     .workMainBannerCard,
@@ -43,6 +55,7 @@
         color: #fff;
         border: 0;
     }
+
     .contactUsMainBannerCard,
     .aboutMainBannerCard,
     .workMainBannerCard,
@@ -53,43 +66,52 @@
     .contentWritingMainBannerCard {
         padding: 70px 10px !important;
     }
+
     .card.mainBannerCard h6 {
         font-size: 12px;
     }
+
     .card.mainBannerCard h2 {
         font-size: 20px;
     }
+
     .navbar {
         background-color: rgba(0, 0, 0, 0.9) !important;
         text-align: center;
     }
+
     .navbar-light .navbar-nav .nav-link:focus,
     .navbar-light .navbar-nav .nav-link:hover {
         color: rgba(255, 255, 255, 1) !important;
     }
+
     .homeSection07 {
         padding: 0;
     }
+
     .dropdown-menu {
         padding: 10px 20px;
     }
+
     .navbar-light .navbar-toggler-icon,
     a.navbar-brand img {
         filter: invert(1);
     }
+
     .workPortfolioSection02 .nav-item,
     .contentWritingSection02 .nav-item {
         width: 100%;
     }
+
     img.contentWritingImg01,
     img.homeSectionSliderImg,
     img.homeSection04Img01,
-    img.homeSection03ContentIcons,
     img.honeSection02Img02 {
         max-width: 60%;
         margin: auto;
         display: block;
     }
+
     .homeSection06Img01,
     .homeSection06Img02,
     .homeSection06Img03,
@@ -98,9 +120,11 @@
         margin: auto;
         display: block;
     }
+
     .homeSection06 {
         padding: 60px 10px 0;
     }
+
     .homeSection06,
     .homeSection04,
     .contentWritingSection02,
@@ -109,7 +133,36 @@
     .homeSection04 {
         padding: 30px 10px !important;
     }
+
     .map iframe {
         min-height: 100%;
+    }
+
+    .service-slide .slick-dots {
+        bottom: -50px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+
+    .service-slide .slick-dots li button:before {
+        color: #fff !important;
+    }
+
+    .homeSection05{
+        padding: 60px 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .service-slide .service-inner{
+        text-align: center;
+        padding-right: 0;
+    }
+
+    .service-slide .service-inner .imgBox {
+        height: 250px;
+        width: 100%;
+        display: flex;
     }
 }

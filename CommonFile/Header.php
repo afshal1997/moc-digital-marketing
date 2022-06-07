@@ -24,6 +24,9 @@
             <li class="nav-item">
               <a class="nav-link active" href="index.php">Home</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">About Moc</a>
+            </li>
             <li class="nav-item dropdown">
               <a href="javascript:void(0)" class="nav-link dropdown-toggle" data-toggle="dropdown">Services</a>
               <ul class="dropdown-menu shadow" style="display: none;">
@@ -34,13 +37,13 @@
               </ul>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="portfolio.php">Portfolio</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="prices.php">Pricing</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="work.php">Work</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.php">About Moc</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact-us.php">Contact</a>

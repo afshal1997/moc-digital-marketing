@@ -72,9 +72,9 @@
                         <div class="card shadow border-0">
                             <div class="card-body">
                                 <div class="packagePrice">
-                                    <h2>$599</h2>
-                                    <h4>BE FOLLOWED</h4>
-                                    <h6 class="text-muted">6 BLOG POSTS PER MONTH</h6>
+                                    <h2>$399</h2>
+                                    <h4>BE UNDERSTOOD</h4>
+                                    <h6 class="text-muted">4 BLOG POSTS PER MONTH</h6>
                                 </div>
                                 <hr>
                                 <div class="priceCardUl">
@@ -99,9 +99,9 @@
                         <div class="card shadow border-0">
                             <div class="card-body">
                                 <div class="packagePrice">
-                                    <h2>$399</h2>
-                                    <h4>BE UNDERSTOOD</h4>
-                                    <h6 class="text-muted">4 BLOG POSTS PER MONTH</h6>
+                                    <h2>$599</h2>
+                                    <h4>BE FOLLOWED</h4>
+                                    <h6 class="text-muted">6 BLOG POSTS PER MONTH</h6>
                                 </div>
                                 <hr>
                                 <div class="priceCardUl">
