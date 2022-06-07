@@ -1,0 +1,115 @@
+@media screen and (max-width: 1399px) {
+    .local-report-section {
+        background-color: #3a3737;
+        margin: 1rem;
+        color: #fff;
+        padding: 1rem;
+    }
+    .get-your-report {
+        margin-top: 10px;
+    }
+    .subscribe .subscribe-form {
+        margin: 1rem;
+        margin-bottom: 0px;
+        color: #fff;
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .last-footer {
+        text-align: left;
+    }
+    .copy-right-section ul {
+        display: block;
+        margin-top: 10px;
+        padding: 0px !important;
+        list-style-type: none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .contactUsMainBannerCard,
+    .aboutMainBannerCard,
+    .workMainBannerCard,
+    .pricesMainBannerCard,
+    .designMainBannerCard,
+    .contentWritingMainBannerCard,
+    .card.mainBannerCard {
+        background-position: right;
+        background-size: cover !important;
+        padding: 10px 10px !important;
+        margin-top: 50px;
+        color: #fff;
+        border: 0;
+    }
+    .contactUsMainBannerCard,
+    .aboutMainBannerCard,
+    .workMainBannerCard,
+    .pricesMainBannerCard,
+    .socialMediaMarketingBannerCard,
+    .googleMainBannerCard,
+    .designMainBannerCard,
+    .contentWritingMainBannerCard {
+        padding: 70px 10px !important;
+    }
+    .card.mainBannerCard h6 {
+        font-size: 12px;
+    }
+    .card.mainBannerCard h2 {
+        font-size: 20px;
+    }
+    .navbar {
+        background-color: rgba(0, 0, 0, 0.9) !important;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: rgba(255, 255, 255, 1) !important;
+    }
+    .homeSection07 {
+        padding: 0;
+    }
+    .dropdown-menu {
+        padding: 10px 20px;
+    }
+    .navbar-light .navbar-toggler-icon,
+    a.navbar-brand img {
+        filter: invert(1);
+    }
+    .workPortfolioSection02 .nav-item,
+    .contentWritingSection02 .nav-item {
+        width: 100%;
+    }
+    img.contentWritingImg01,
+    img.homeSectionSliderImg,
+    img.homeSection04Img01,
+    img.homeSection03ContentIcons,
+    img.honeSection02Img02 {
+        max-width: 60%;
+        margin: auto;
+        display: block;
+    }
+    .homeSection06Img01,
+    .homeSection06Img02,
+    .homeSection06Img03,
+    .homeSection06Img04 {
+        max-width: 70%;
+        margin: auto;
+        display: block;
+    }
+    .homeSection06 {
+        padding: 60px 10px 0;
+    }
+    .homeSection06,
+    .homeSection04,
+    .contentWritingSection02,
+    .section02Content,
+    .homeSection03,
+    .homeSection04 {
+        padding: 30px 10px !important;
+    }
+    .map iframe {
+        min-height: 100%;
+    }
+}
