@@ -35,22 +35,16 @@
                         <h4 class="text-uppercase mb-4">About Us</h4>
                         <ul>
                             <li>
-                                <a href="javascript:void(0)">grow</a>
+                                <a href="prices.php">pricing</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">pricing</a>
+                                <a href="work.php">work</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">work</a>
+                                <a href="about.php">about moc</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">about moc</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">contact</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">pricacy policy</a>
+                                <a href="contact-us.php">contact</a>
                             </li>
                         </ul>
                     </div>
@@ -58,19 +52,13 @@
                         <h4 class="text-uppercase mb-4">Support</h4>
                         <ul>
                             <li>
-                                <a href="javascript:void(0)">get started us</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">contact us</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">blog posts</a>
+                                <a href="contact-us.php">get started us</a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)">need helps</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">join with us</a>
+                                <a href="contact-us.php">join with us</a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)">FAQ's</a>
@@ -81,16 +69,16 @@
                         <h4 class="text-uppercase mb-4">Services</h4>
                         <ul>
                             <li>
-                                <a href="javascript:void(0)">Content Writing</a>
+                                <a href="content-writing.php">Content Writing</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">Design</a>
+                                <a href="design.php">Design</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">Google</a>
+                                <a href="google.php">Google</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)">Social Media Marketing</a>
+                                <a href="social-media-marketing.php">Social Media Marketing</a>
                             </li>
                         </ul>
                     </div>

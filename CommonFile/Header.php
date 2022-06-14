@@ -37,9 +37,6 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="portfolio.php">Portfolio</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" href="prices.php">Pricing</a>
             </li>
             <li class="nav-item">

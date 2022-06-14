@@ -21,10 +21,10 @@
     </div>
 
     <section class="workPortfolioSection02 mt-5" id="pricingSection02">
-        <div class="container-fluid">
+        <div class="container-fluid" id="workSection02">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="mb-3" data-aos="fade-down" data-aos-duration="3000">Portfolio</h2>
+                    <h2 class="mb-3" data-aos="fade-down" data-aos-duration="3000">Our Work</h2>
                 </div>
             </div>
             <div class="row">
@@ -48,157 +48,126 @@
                     <div class="pricingCards">
                         <div class="col-lg-12 m-auto">
                             <div class="row">
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/calsautos.png" alt="Calsautos"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/firstline.png" alt="Firstline"></a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/calsautos.png" alt="Calsautos"></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/firstline.png" alt="Firstline"></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="https://metroautocare1.com/" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/metroauto.png" alt="Metroauto">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="https://batulthecollection.com/" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/batul.png" alt="Batul">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/g-modern.png" alt="G-Modern">
-                                                </a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="https://batulthecollection.com/" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/batul.png" alt="Batul">
+                                        </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/g-modern.png" alt="G-Modern">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="javascript:void(0)" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/scope.png" alt="Scope">
                                         </a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row d-none" id="moreWebDevelopment">
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="https://mytikkit.com/" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/tikkit.png" alt="Tikkit">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="https://usapapo.com/" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/papo.png" alt="Papo"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/amir-kaki.png" alt="Amir Kaki"></a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="https://usapapo.com/" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/papo.png" alt="Papo"></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/amir-kaki.png" alt="Amir Kaki"></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="javascript:void(0)" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/l1m.png" alt="L1M">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/torewo.png" alt="Torewo">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/dental-supply.png" alt="Dental Supply">
-                                                </a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/torewo.png" alt="Torewo">
+                                        </a>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/coco-shake.png" alt="Coco Shake"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/one-home.png" alt="One Home"></a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/dental-supply.png" alt="Dental Supply">
+                                        </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/coco-shake.png" alt="Coco Shake"></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/one-home.png" alt="One Home"></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="https://dcvs.org/" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/detroit.png" alt="Detroit">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
-                                    <div class="row">
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="javascript:void(0)" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/hebah.png" alt="Hebah">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 text-center m-auto">
-                                            <div class="mockUp border-0">
-                                                <a href="https://www.healthyeatsnutritionist.com/" class="mockUpLinks">
-                                                    <img class="shadow" src="Assets/Images/portfolio/healthy-eat.png" alt="healthy-eat.png">
-                                                </a>
-                                            </div>
-                                        </div>
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="javascript:void(0)" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/hebah.png" alt="Hebah">
+                                        </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 text-center m-auto">
+                                <div class="col-lg-4 text-center m-auto">
+                                    <div class="mockUp border-0">
+                                        <a href="https://www.healthyeatsnutritionist.com/" class="mockUpLinks">
+                                            <img class="shadow" src="Assets/Images/portfolio/healthy-eat.png" alt="healthy-eat.png">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 text-center m-auto">
                                     <div class="mockUp border-0 fullMockUp">
                                         <a href="https://firstchoicebrake.com/" class="mockUpLinks">
                                             <img class="shadow" src="Assets/Images/portfolio/first-choice.png" alt="First Choice">
                                         </a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class='col-lg-12 text-center m-auto mt-5'>
-                                <button class="text-center btn btn-dark rounded" id="moreWebDevelopmentButton">Show
-                                    More</button>
                             </div>
                         </div>
                     </div>
@@ -223,7 +192,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row d-none" id="moreLogoDesignWork">
+                            <div class="row">
                                 <div class="col-lg-4 text-center m-auto mb-4">
                                     <div class="logoDesign border-0">
                                         <img class="shadow " src="Assets/Images/work/portfolio/logo04.jpeg" alt="Assets/Images/work/portfolio/logo04.jpeg">
@@ -255,10 +224,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class='col-lg-12 text-center m-auto'>
-                                <button class="text-center btn btn-dark rounded" id="moreLogoDesignWorkButton">Show
-                                    More</button>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -283,7 +248,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row d-none" id="moreSocialMediaWork">
+                            <div class="row">
                                 <div class="col-lg-6 text-center m-auto mb-4">
                                     <div class="card afterBeforeFilter shadow border-0">
                                         <div class='img background-img03'></div>
@@ -300,10 +265,6 @@
                                         <div class='slider-button04'></div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class='col-lg-12 text-center m-auto'>
-                                <button class="text-center btn btn-dark rounded" id="moreSocialMediaWorkButton">Show
-                                    More</button>
                             </div>
                         </div>
                     </div>

@@ -1231,12 +1231,6 @@ a.mockUpLinks{
     margin: 0;
 }
 
-.mockUp.fullMockUp img{
-    min-height:1020px;
-    max-height:1020px;
-    margin: 0;
-}
-
 .afterBeforeFilter{
     border:2px solid #222B33 !important;
     border-radius: 0px !important;
