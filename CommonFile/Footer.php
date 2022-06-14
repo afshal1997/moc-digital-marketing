@@ -114,8 +114,7 @@
                                 <h4 class="text-uppercase mb-0">follow us</h4>
                             </div>
                             <div class="footer-social-link col m-auto">
-                                <i class="me-3 fab fa-facebook-f"></i>
-                                <i class="fab fa-instagram"></i>
+                                <a href="https://instagram.com/digitalmarketingmoc?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
